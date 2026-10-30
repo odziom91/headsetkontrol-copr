@@ -56,6 +56,7 @@ settings. The application is written using Qt 6, Kirigami and KDE Frameworks 6.
 %{_datadir}/applications/headsetkontrol.desktop
 %{_datadir}/knotifications6/headsetkontrol.notifyrc
 %{_datadir}/icons/hicolor/*/apps/*.svg
+%{_datadir}/icons/hicolor/scalable/status/headsetkontrol-battery-*.svg
 %{_datadir}/locale/*/LC_MESSAGES/*.mo
 
 %changelog
